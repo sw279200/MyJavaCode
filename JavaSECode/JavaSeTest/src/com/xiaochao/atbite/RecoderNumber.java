@@ -1,4 +1,4 @@
-package com.xiaochao;
+package com.xiaochao.atbite;
 import java.util.Scanner;
 public class RecoderNumber {
    /* **回形数
