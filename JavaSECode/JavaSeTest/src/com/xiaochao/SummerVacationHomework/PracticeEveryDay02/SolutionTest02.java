@@ -8,10 +8,10 @@ package com.xiaochao.SummerVacationHomework.PracticeEveryDay02;
  * @Description: TODO
  * @Version: 1.0
  */
-public class SolutionTest {
+public class SolutionTest02 {
     public static void main(String[] args) {
         String s = "Hello how are you Contestant";
-        Solution sol = new Solution();
+        Solution02 sol = new Solution02();
         System.out.println( sol.truncateSentence(s,4));
 
     }

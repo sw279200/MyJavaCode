@@ -8,7 +8,7 @@ package com.xiaochao.SummerVacationHomework.PracticeEveryDay02;
  * @Description: TODO
  * @Version: 1.0
  */
-public class Solution {
+public class Solution02 {
     /**
      * @Author 锦猪
      * @Description 截断句子

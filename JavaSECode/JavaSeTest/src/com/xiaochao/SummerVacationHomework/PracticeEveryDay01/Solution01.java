@@ -10,7 +10,7 @@ package com.xiaochao.SummerVacationHomework.PracticeEveryDay01;
  *               如果是回文请返回true，否则返回false。字符串回文指该字符串正序与其逆序逐字符一致。
  * @Version: 1.0
  */
-public class SolutionTest1 {
+public class Solution01 {
     /**
      * @Author 锦猪
      * @Description 

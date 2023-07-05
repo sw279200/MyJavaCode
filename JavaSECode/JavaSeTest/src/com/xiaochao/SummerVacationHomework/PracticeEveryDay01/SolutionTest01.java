@@ -8,9 +8,9 @@ import java.util.Scanner;
  * @Description: TODO
  * @Version: 1.0
  */
-public class Test {
+public class SolutionTest01 {
     public static void main(String[] args) {
-        SolutionTest1 st = new SolutionTest1();
+        Solution01 st = new Solution01();
         Scanner scanner = new Scanner(System.in);
         int x = scanner.nextInt();
         System.out.println(st.sqrt(x));
