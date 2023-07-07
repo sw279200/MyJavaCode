@@ -1,4 +1,4 @@
-package com.xiaochao.SummerVacationHomework.PraticeEveryDay04;
+package com.xiaochao.SummerVacationHomework.PracticeEveryDay04;
 
 /**
  * @BelongsProject: JavaSECode
