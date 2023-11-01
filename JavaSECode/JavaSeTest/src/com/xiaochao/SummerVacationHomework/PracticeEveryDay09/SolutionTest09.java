@@ -20,7 +20,7 @@ public class SolutionTest09 {
         for (int i = 0; i < s9.reversePrint(head).length; i++) {
                 System.out.println(s9.reversePrint(head)[i]);
         }
-        System.out.println("****************************************");
+        System.out.println("****************************************  ");
         ListNode L1 = new ListNode(1);
         ListNode L2 = new ListNode(2);
         ListNode L3 = new ListNode(3);
